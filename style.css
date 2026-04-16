@@ -1,0 +1,35 @@
+.form {
+
+    padding: 10px;
+    border: 2px solid black;
+    width: 200px;
+
+}
+
+body {
+    margin: 0;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #f2f2f2;
+
+}
+
+
+
+.name1 {
+    padding: 4px;
+    margin-bottom: 8px;
+}
+
+.name2 {
+    padding: 4px;
+    margin-bottom: 8px;
+}
+
+.name3 {
+    padding: 6px;
+    margin-bottom: 8px;
+    width: 26vh;
+}
